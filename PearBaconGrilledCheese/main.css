@@ -1,0 +1,18 @@
+body {
+  font-size: 20px;
+  color: #666666;
+}
+#ingredients  h2{
+  color:darkslategray;
+}
+
+#directions h2 {
+  color:maroon;
+}
+#ingredients p {
+  font-style: italic;
+}
+
+#directions p {
+  font-family: sans-serif;
+}
